@@ -1,0 +1,26 @@
+{
+  "name": "mod9-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Va110k/Mod9-Webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Va110k/Mod9-Webpack/issues"
+  },
+  "homepage": "https://github.com/Va110k/Mod9-Webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.62.1",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
